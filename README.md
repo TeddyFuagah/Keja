@@ -266,5 +266,3 @@ For support, email hello@keja.co.ke or WhatsApp +254 711 111 111
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 
 ---
-
-**Made with ❤️ for Kenya's Real Estate Market**
