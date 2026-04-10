@@ -1,0 +1,21 @@
+{
+  "name": "KEJA",
+  "short_name": "KEJA",
+  "description": "KEJA is a modern real estate platform for buying, renting, and leasing properties in Kenya.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0B6623",
+  "theme_color": "#0B6623",
+  "icons": [
+    {
+      "src": "/keja-02.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/keja-02.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
